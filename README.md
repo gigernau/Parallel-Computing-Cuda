@@ -1,26 +1,26 @@
 # Parallel-Computing-Cuda
 Parallel Computing Exercises with Cuda
 
-CALCOLO MATRICIALE
+## CALCOLO MATRICIALE
 C = C + A*B
 
-DATI
+## DATI
 - Leading Dimension:   1500
 - Matrici A B e C
 
-ELABORATO 1
+## ELABORATO 1: Mat * Mat (i,k,j index)
 - Dimensioni ottimali: 100
 - GFlops massimi: 7,244048 Gflops
 - Step: 50
 
 
-ELABORATO 2
+## ELABORATO 2: Mat * Mat in blocks
 - Dimensioni Blocchi : 100
 - GFlops costanti : 6,5 - 7,2 Gflops
 - Step: 100
 
 
-ELABORATO 3
+## ELABORATO 3: Mat * Mat with Threads
 
 - Dimensioni Blocchi : 100
 - Step: 200
