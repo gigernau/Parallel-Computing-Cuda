@@ -3,7 +3,7 @@
 #include<cuda_runtime.h>
 #include <time.h>
 #include <windows.h>
-const int MAX_ROW_THREADS = 32; // 32x32 ---Z 1024 nume max thread su GPU
+const int MAX_ROW_THREADS = 32; // 32x32 ---> 1024 thread su GPU
 #define MAX 30
 
 
