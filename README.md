@@ -49,3 +49,5 @@ seguente figura con 4 thread (NTrow = 2 , NTcol = 2)
 			 SpeedUp(4) Max : 3,96
 			 Efficienza Max : 0,99
 			 
+## ELABORATO 4: Prodotto tra matrici in CUDA.
+			 
